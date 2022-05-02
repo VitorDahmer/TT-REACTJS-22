@@ -1,0 +1,14 @@
+
+
+.ativo{
+    background-color: greenyellow;
+    width: 70px;
+    height: 30px;
+}
+
+.inativo{
+    color: white;
+    background-color: red;
+    width: 90px;
+    height: 30px;
+}
