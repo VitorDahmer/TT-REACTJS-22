@@ -30,6 +30,10 @@ justify-content: space-around;
 export const HomeSocialImg = styled.img`
 border: 1px solid #FF4A57;
 border-radius: 50%;
+:hover{
+    border: 5px solid #FF4A57;
+    background-color: #FF4A57;
+}
 `;
 
 export const HomeH1 = styled.h1`
@@ -46,4 +50,7 @@ height: 363px;
 border: 7px solid #ffffff;
 border-bottom: 50px solid #ffffff;
 transform: rotate(9.4deg);
+:hover{
+    transform: rotate(15deg);
+}
 `;
